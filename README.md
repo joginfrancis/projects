@@ -1,2 +1,2 @@
 # jogin-website
-My project Docs
+My project Doc

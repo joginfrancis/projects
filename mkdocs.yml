@@ -1,0 +1,53 @@
+# Replace the text below to customize your site
+site_name: Jogin Francis
+site_description: My personal documentation site
+site_author: Jogin Francis
+copyright: Copyright 2022 Jogin Francis - Creative Commons Attribution Non Commercial
+
+site_url: https://joginfrancis.me/
+
+extra:
+  # Set your own social media below (or remove)
+  social:
+    # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/jogin_francis/
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/jogin.francis
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/jogin1
+    - icon: fontawesome/brands/linkedin
+      link: "www.linkedin.com/in/jogin-francis"
+
+theme:
+  name: material
+  palette:
+    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+    primary: black
+    accent: indigo
+  font:
+    # See available fonts at https://fonts.google.com/
+    text: Ubuntu
+    code: Ubuntu Mono
+  icon:
+    logo: material/Hiking
+  favicon: images/favicon.jpg
+  features:
+    - navigation.tabs
+    - navigation.instant
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+      # Read more: https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/options/#enabled
+      enabled: !ENV [ENABLED_GIT_REVISION_DATE, False]
+
+markdown_extensions:
+  - extra
+  - smarty
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
