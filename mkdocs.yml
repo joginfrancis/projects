@@ -30,8 +30,8 @@ theme:
     text: Ubuntu
     code: Ubuntu Mono
   icon:
-    logo: material-hiking
-    favicon: material-hiking
+    #logo: material-hiking
+    favicon: images/favicon.png
   features:
     - navigation.tabs
     - navigation.instant
