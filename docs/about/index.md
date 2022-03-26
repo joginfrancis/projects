@@ -1,25 +1,53 @@
 # About me
 
-![](../images/avatar-photo.jpg)
+![](../images/favicon.jpeg){ width=60%}
 
-Hi! I am Emma Brewer. I am an art director & graphic designer based in New York City working on branding, visual identities, editorial design and web design.
+<div style="text-align: justify"> I am currently working as a technical officer at <a href="https://fablabkerala.in/">superfablab Kochi</a> in Kochi as part of my current work at Kerala Startup Mission, which is the nodal agency of the Kerala government for entrepreneurship development and incubation activities in Kerala, India.I was involved in the development and establishment of the first Superfablab in Kochi, as well as a series of other mini fab labs across Kerala.In addition, I design and deliver several learning courses, machine projects and research projects for fablabs and other organizations in Kerala.</div>
 
-Visit this website to see my work!
 
 ## My background
 
-I was born in a nice city called..
+I was born in a mountain region of  Kerala, India called [Idukki](https://en.wikipedia.org/wiki/Idukki_district). The region is famous for its rich flora and fauna, cold climate and beautiful tourist destinations.
+
+
+I studied electrical engineering in collage . In practise, I enjoy Machine Designing, Engineering, Manufacturing, 
+Programming, intelligent systems and other related fields.
 
 ## Previous work
 
-I'm a paragraph. Edit the page on Gitlab to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.​
-
+A few of my previous works are posted on this [page](https://joginfrancis.me/Projects-fafd9bf78a9e46e59a1136678a721312)
 ### Project A
 
-This is an image from an external site:
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/sample-photo.jpg">
+      <img src="../images/sample-photo.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
 
-![This is the image caption](https://images.unsplash.com/photo-1512436991641-6745cdb1723f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ad25f4eb5444edddb0c5fb252a7f1dce&auto=format&fit=crop&w=900&q=80)
-
-While this is an image from the assets/images folder. Never use absolute paths (starting with /) when linking local images, always relative.
-
-![This is another caption](../images/sample-photo.jpg)
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/sample-photo.jpg">
+      <img src="../images/sample-photo.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/sample-photo.jpg">
+      <img src="../images/sample-photo.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="../images/sample-photo.jpg">
+      <img src="../images/sample-photo.jpg" alt="Forest" width="600" height="400">
+    </a>
+    <div class="desc">Add a description of the image here</div>
+  </div>
+</div>

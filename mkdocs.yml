@@ -36,6 +36,8 @@ theme:
     - navigation.tabs
     - navigation.instant
 
+extra_css: [./css/extra.css]
+
 plugins:
   - search
   - git-revision-date-localized:
