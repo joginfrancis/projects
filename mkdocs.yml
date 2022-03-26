@@ -22,9 +22,17 @@ extra:
 theme:
   name: material
   palette:
-    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+  - scheme: default
     primary: black
-    accent: indigo
+    toggle:
+      icon: material/toggle-switch-off-outline 
+      name: Switch to dark mode
+  - scheme: slate 
+    #primary: teal
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
+
   font:
     # See available fonts at https://fonts.google.com/
     text: Ubuntu
@@ -35,6 +43,9 @@ theme:
   features:
     - navigation.tabs
     - navigation.instant
+
+
+
 
 extra_css: [./css/extra.css]
 

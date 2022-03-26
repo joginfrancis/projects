@@ -51,3 +51,7 @@ A few of my previous works are posted on this [page](https://joginfrancis.me/Pro
     <div class="desc">Add a description of the image here</div>
   </div>
 </div>
+
+&ensp;
+
+<img class="zoomD" src="../images/sample-photo.jpg" alt="groupmillig.jpg" style="width:50%;">
