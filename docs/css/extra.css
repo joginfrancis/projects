@@ -62,3 +62,56 @@
     --md-accent-bg-color--light: hsla(0, 0%, 100%, 0.7);
   }
   
+
+img {
+    border: 0px ;
+    transition: transform ease-in-out 0.3s;
+}
+
+img[src*="#shadow"] {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+img:active[src*="#zoom"] {
+    cursor: zoom-out;
+    transform: scale(2.0);
+}
+
+img[src*="#zoom"] {
+    cursor: zoom-in;
+}
+
+img[src*="#center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img[src*="#borders"] {
+    border: 1px solid #9f9f9f;
+}
+img[src*="#auto_size"] {
+    height: auto;
+    width: auto;
+}
+
+img[src*="#cover_gallary1"] {
+  width: 60%;
+  height: 10%;
+  object-fit: cover
+}
+img[src*="#cover_gallary"] {
+  width: 300px;
+  height: 100px;
+  object-fit: cover
+}
+
+a.md-logo img {
+    border: none;
+}
+
+.cover1{
+  width: 60px;
+  height: 60px;
+  object-fit: cover
+}
