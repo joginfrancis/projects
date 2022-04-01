@@ -6,19 +6,13 @@ When I first started this project one of my main goals was to make it easy to re
 
 ### references
 
-Carvera - [https://www.kickstarter.com/projects/makera-inc/carvera](https://www.kickstarter.com/projects/makera-inc/carvera)
-
-**Roland -** [https://www.rolanddg.com/en/news/2002/021108-roland-introduces-automatic-tool-changer-for-unattended-milling](https://www.rolanddg.com/en/news/2002/021108-roland-introduces-automatic-tool-changer-for-unattended-milling)
-
-Diy - [https://shane.engineer/blog/power-drawbar-x2-mini-mill](https://shane.engineer/blog/power-drawbar-x2-mini-mill)
-
-      - [https://www.youtube.com/watch?v=CFCo1EBo3cU](https://www.youtube.com/watch?v=CFCo1EBo3cU)
-
-      - [https://www.youtube.com/watch?v=NhHAEFwQcCA](https://www.youtube.com/watch?v=NhHAEFwQcCA)
-
-[https://shane.engineer/blog/power-drawbar-x2-mini-mill](https://shane.engineer/blog/power-drawbar-x2-mini-mill)
-
-[https://hackaday.com/2020/01/11/stacks-of-spring-washers-power-the-drawbar-on-this-cnc-mill-conversion/](https://hackaday.com/2020/01/11/stacks-of-spring-washers-power-the-drawbar-on-this-cnc-mill-conversion/)
+[carvera](https://www.kickstarter.com/projects/makera-inc/carvera),
+[rolanddg ATC](https://www.rolanddg.com/en/news/2002/021108-roland-introduces-automatic-tool-changer-for-unattended-milling),
+[Power drawbar for x2 mini mill](https://shane.engineer/blog/power-drawbar-x2-mini-mill),
+[DIY BT30 Spindle](https://www.youtube.com/watch?v=CFCo1EBo3cU),
+[DIY BT30 SK30 automatic tool change spindle buildingreport](https://www.youtube.com/watch?v=NhHAEFwQcCA),
+[power-drawbar-x2-mini-mill](https://shane.engineer/blog/power-drawbar-x2-mini-mill),
+[DIY Power drawbar](https://hackaday.com/2020/01/11/stacks-of-spring-washers-power-the-drawbar-on-this-cnc-mill-conversion/)
 
 
 
